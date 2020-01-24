@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     marginTop: 560,
-    marginLeft: 29
+    marginLeft: 28.5
   },
 
   register: {
